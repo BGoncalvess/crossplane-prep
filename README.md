@@ -1,0 +1,5 @@
+- https://docs.crossplane.io/latest/get-started/
+- https://kro.run/api/specifications/simple-schema/
+- https://github.com/crossplane-contrib/function-auto-ready
+- https://book.kubebuilder.io/
+- https://kubernetes.io/docs/concepts/architecture/
